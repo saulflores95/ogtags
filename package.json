@@ -1,0 +1,26 @@
+{
+  "name": "ogtags",
+  "version": "0.1.0",
+  "description": "Simple OG tag component for facebook sharing for NEXT.JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "next",
+    "og",
+    "tags",
+    "meta",
+    "tags",
+    "facebook",
+    "sharing"
+  ],
+  "author": "Saul Flores",
+  "license": "MIT",
+  "dependencies": {
+    "nextjs": "^0.0.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
